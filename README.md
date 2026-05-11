@@ -4,6 +4,8 @@ Welcome to the official repository for BcePred, a web server for predicting cont
 
 Web Server:  https://webs.iiitd.edu.in/raghava/bcepred/
 
+ZENODO : https://doi.org/10.5281/zenodo.20112047
+
 ## Citation
 
 Saha, S., & Raghava, G. P. S. (2004).
